@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.16" start="node2" apprev="18125">
+  <panorama id="node5">
+    <input leveltilesize="510" width="1344" height="1344" levelingroll="0" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1344" height="1344" predecode="0" preload="0"/>
+      <level width="672" height="672" predecode="0" preload="0"/>
+      <level width="336" height="336" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="12.6" fovmode="0">
+      <start tilt="-4.84251" projection="4" fov="85.9361" pan="-171.954"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="43.489703" longitude="-1.478367" description="" info="" source="" tags="15 Rue Espagne" nodeid="node5" author="" altitude="63.80" datetime="19/06/2025 08:50" heading="12.6" customnodeid="" title="" copyright="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" width="180" bordercolor="0x000000" borderalpha="1" height="20" borderradius="1" textalpha="1" border="1" textcolor="0x000000" background="1" enabled="1" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-19.22" skinid="ht_node" description="" pan="-164.5" url="{node2}" target="155.9/-17.4/84.0" title="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomspeed="2" type="crossdissolve" softedge="0" zoomafterinfov="90" enabled="1" zoomout="0" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedmouse="0" invertcontrol="1" contextprojections="0" hideabout="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" contextfullscreen="1" speedwheel="1" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1344" height="1344" levelingroll="0" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1344" height="1344" predecode="0" preload="0"/>
+      <level width="672" height="672" predecode="0" preload="0"/>
+      <level width="336" height="336" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-14.7252" projection="4" fov="70" pan="159.305"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" description="" info="" source="" tags="15 Rue Espagne" nodeid="node2" author="" datetime="19/06/2025 08:32" heading="0" customnodeid="" title="" copyright="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" width="180" bordercolor="0x000000" borderalpha="1" height="20" borderradius="1" textalpha="1" border="1" textcolor="0x000000" background="1" enabled="1" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="61.68" skinid="ht_node" description="" pan="-146.52" url="{node5}" target="-108.8/-4.7/85.9" title="Sortie" id="Point01"/>
+      <hotspot tilt="-19.46" skinid="ht_node" description="" pan="-197.73" url="{node1}" target="-173.4/-6.4/70.0" title="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomspeed="2" type="crossdissolve" softedge="0" zoomafterinfov="90" enabled="1" zoomout="0" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedmouse="0" invertcontrol="1" contextprojections="0" hideabout="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" contextfullscreen="1" speedwheel="1" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" width="1344" height="1344" levelingroll="0" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1344" height="1344" predecode="0" preload="0"/>
+      <level width="672" height="672" predecode="0" preload="0"/>
+      <level width="336" height="336" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" description="" info="" source="" tags="15 Rue Espagne" nodeid="node1" author="" datetime="19/06/2025 08:32" heading="0" customnodeid="" title="" copyright="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" width="180" bordercolor="0x000000" borderalpha="1" height="20" borderradius="1" textalpha="1" border="1" textcolor="0x000000" background="1" enabled="1" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-16.53" skinid="ht_node" description="" pan="-171.22" url="{node3}" target="41.8/1.3/70.0" title="" id="Point01"/>
+      <hotspot tilt="-2.89" skinid="ht_node" description="" pan="-352.45" url="{node2}" target="36.9/56.1/70.0" title="Retour vers sortie" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomspeed="2" type="crossdissolve" softedge="0" zoomafterinfov="90" enabled="1" zoomout="0" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedmouse="0" invertcontrol="1" contextprojections="0" hideabout="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" contextfullscreen="1" speedwheel="1" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1344" height="1344" levelingroll="0" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1344" height="1344" predecode="0" preload="0"/>
+      <level width="672" height="672" predecode="0" preload="0"/>
+      <level width="336" height="336" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" description="" info="" source="" tags="15 Rue Espagne" nodeid="node3" author="" datetime="19/06/2025 08:34" heading="0" customnodeid="" title="" copyright="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" width="180" bordercolor="0x000000" borderalpha="1" height="20" borderradius="1" textalpha="1" border="1" textcolor="0x000000" background="1" enabled="1" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-15.3" skinid="ht_node" description="" pan="-319.06" url="{node4}" target="177.3/-2.2/70.0" title="" id="Point01"/>
+      <hotspot tilt="-11.11" skinid="ht_node" description="" pan="-140.58" url="{node1}" target="7.2/-0.1/83.7" title="Retour vers sortie" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomspeed="2" type="crossdissolve" softedge="0" zoomafterinfov="90" enabled="1" zoomout="0" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedmouse="0" invertcontrol="1" contextprojections="0" hideabout="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" contextfullscreen="1" speedwheel="1" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1344" height="1344" levelingroll="0" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1344" height="1344" predecode="0" preload="0"/>
+      <level width="672" height="672" predecode="0" preload="0"/>
+      <level width="336" height="336" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-4.62571" projection="4" fov="70" pan="176.756"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" fovfisheye="360" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" description="" info="" source="" tags="15 Rue Espagne" nodeid="node4" author="" datetime="19/06/2025 08:35" heading="0" customnodeid="" title="" copyright="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" width="180" bordercolor="0x000000" borderalpha="1" height="20" borderradius="1" textalpha="1" border="1" textcolor="0x000000" background="1" enabled="1" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-11.67" skinid="ht_node" description="" pan="-5.62" url="{node3}" target="-139.1/-0.5/70.0" title="Retour vers sortie" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomspeed="2" type="crossdissolve" softedge="0" zoomafterinfov="90" enabled="1" zoomout="0" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedmouse="0" invertcontrol="1" contextprojections="0" hideabout="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" contextfullscreen="1" speedwheel="1" invertwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" longitude="" description="" info="" source="" tags="" nodeid="master" author="" datetime="" heading="0" customnodeid="" title="" copyright="" comment=""/>
+  </masternode>
+</tour>
